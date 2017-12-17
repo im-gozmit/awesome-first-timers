@@ -418,7 +418,7 @@
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
   
- - Name: Mayank
-   Place: Allahabad,India
-   Bio: I am like a code under development.
-   Github: [im-gozmit](https://github.com/im-gozmit)
+- Name: Mayank
+  Place: Allahabad,India
+  Bio: I am like a code under development.
+  Github: [im-gozmit](https://github.com/im-gozmit)
